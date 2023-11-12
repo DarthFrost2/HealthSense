@@ -3,9 +3,4 @@ This software project and its corresponding documentation entitled “HealthSens
 We hereby grant the College of Information and Communications Technology permission to freely use, publish in local or international journal/conferences, reproduce, or distribute publicly the paper and electronic copies of this software project and its corresponding documentation in whole or in part, provided that we are acknowledged.
 
 
-Ana Patricia F. Felasol
-Thrys J. Formoso
-Patricia Anne A. Gaquit 
-John Kate E. Marbebe  
-Luke Ian B. Undar
-
+Copyright ©2023
